@@ -18,10 +18,10 @@ email: sofia1cst@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just you wait.
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sofaca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
+twitter_username: 
+github_username:  sofaca
 
 # Build settings
 markdown: kramdown
