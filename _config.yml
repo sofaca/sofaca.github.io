@@ -16,7 +16,7 @@
 title: My Name is Hamilton
 email: sofia1cst@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just you wait
+  Just you wait.
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
